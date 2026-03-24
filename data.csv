@@ -1,0 +1,4 @@
+Table 1
+email,status,History,,,,
+test@example.com,CREATED,CREATED|ASSIGNED|CONTACTED,,,,
+wrong-email,CREATED,CREATED|CLOSED,,,,

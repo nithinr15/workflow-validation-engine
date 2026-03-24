@@ -1,0 +1,12 @@
+[
+  {
+    "email": "test@example.com",
+    "status": "CREATED",
+    "history": ["CREATED", "ASSIGNED", "CONTACTED"]
+  },
+  {
+    "email": "wrong-email",
+    "status": "CREATED",
+    "history": ["CREATED", "CLOSED"]
+  }
+]
